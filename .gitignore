@@ -12,7 +12,7 @@ llama-pretrain-output/*
 save_preptrained/*
 nlp_s3_project/*
 *.parquet
-
+*.pkl
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
